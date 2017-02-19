@@ -1,11 +1,11 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: Satish Kumar B.B.
 -- 
 -- Create Date:    11:20:04 02/12/2017 
 -- Design Name: 
 -- Module Name:    adder - Behavioral 
--- Project Name: 
+-- Project Name:  GARUDA
 -- Target Devices: 
 -- Tool versions: 
 -- Description: 
