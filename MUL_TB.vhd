@@ -1,11 +1,11 @@
 --------------------------------------------------------------------------------
 -- Company: 
--- Engineer:
+-- Engineer:SATISH KUMAR B.B.
 --
 -- Create Date:   18:24:49 02/18/2017
 -- Design Name:   
 -- Module Name:   C:/.Xilinx/garuda/MUL_TB.vhd
--- Project Name:  garuda
+-- Project Name:  GARUDA
 -- Target Device:  
 -- Tool versions:  
 -- Description:   
