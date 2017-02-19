@@ -1,11 +1,11 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: Satish KUmar B.B.
 -- 
 -- Create Date:    14:28:09 02/18/2017 
 -- Design Name: 
 -- Module Name:    adder_3bit - Behavioral 
--- Project Name: 
+-- Project Name:  GARUDA
 -- Target Devices: 
 -- Tool versions: 
 -- Description: 
@@ -17,6 +17,7 @@
 -- Additional Comments: 
 --
 ----------------------------------------------------------------------------------
+--- This Adder is Designed for the multiplier 2 bit.
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
